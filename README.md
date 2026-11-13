@@ -14,6 +14,7 @@ This is Tasklane's typed frontend foundation. The board renders six sample tasks
 - [Client board](src/components/board.tsx)
 - [Module 2 implementation plan](docs/modules/02/plan.md)
 - [Verification](docs/modules/02/verification.md)
+- [Submission note](docs/modules/02/submission.md)
 
 ## Run
 
