@@ -8,7 +8,7 @@ This is Tasklane's typed frontend foundation. The board renders six sample tasks
 
 ## Evidence
 
-- [Architecture notes and security checklist](src/app/architecture/page.tsx)
+- [Architecture notes and security checklist](src/app/guide/page.tsx)
 - [Shared task types](src/types/task.ts)
 - [Server page](src/app/page.tsx)
 - [Client board](src/components/board.tsx)
